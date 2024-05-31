@@ -1,2 +1,5 @@
-  # Blog
-Log of all sorts of things
+# Blog
+- 学习记录:  
+  - 代码、软件等学习过程.  
+- other记录:    
+  - 日常遇到的bug记录等.
