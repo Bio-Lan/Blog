@@ -1,2 +1,2 @@
-# Learning_record
-My learning record
+# Log
+A log of all sorts of things
