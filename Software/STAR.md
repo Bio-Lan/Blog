@@ -1,3 +1,4 @@
+*record: 2024.06.04*
 ## 前言  
 最近在编写nextflow分析流程的时候，用到了star中starsolo的部分参数，在查看star manual的时候，未发现starsolo输出的具体描述，只在star的Issues里面找到，在此做些整理。
 ### Barcode Reads Stats:  
