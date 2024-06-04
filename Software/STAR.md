@@ -53,6 +53,6 @@
   - nGenesMulti: number of genes supported by just multi-gene reads, if requested
 
 ### Ref
-[**Barcoded/Feature ReadsStats**](https://github.com/alexdobin/STAR/issues/1887 "Barcoded Reads Stats and Feature ReadsStats")  
+[**Barcode/Feature ReadsStats**](https://github.com/alexdobin/STAR/issues/1887 "Barcode Reads Stats and Feature ReadsStats")  
 [**Cell Readstats**](https://github.com/alexdobin/STAR/issues/1501)
 
