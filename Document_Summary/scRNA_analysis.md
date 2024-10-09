@@ -11,17 +11,17 @@
 ## 2.Fastq mapping
 - [bwa](https://bio-bwa.sourceforge.net/bwa.shtml)
 - [STAR](https://github.com/alexdobin/STAR)
-> [Bam format](https://github.com/samtools/hts-specs/blob/master/SAMv1.pdf)
-> [BAM tags](https://github.com/samtools/hts-specs/blob/master/SAMtags.pdf)
-- [samtools](http://www.htslib.org/doc/samtools.html)
+> - [Bam format](https://github.com/samtools/hts-specs/blob/master/SAMv1.pdf)  
+> - [BAM tags](https://github.com/samtools/hts-specs/blob/master/SAMtags.pdf)  
+> - [samtools](http://www.htslib.org/doc/samtools.html)  
 
 # scRNA-seq analysis tools
 ## 1.Intergration
 ### R:
-- [R:Seurat](https://satijalab.org/seurat/index.html)
+- [R: Seurat](https://satijalab.org/seurat/index.html)
 - [Harmony](https://github.com/immunogenomics/harmony)
 ### Python:
-- [Python:Scanpy](https://scanpy.readthedocs.io/en/stable/)
+- [Python: Scanpy](https://scanpy.readthedocs.io/en/stable/)
 
 ## 2.Enrichment analysis
 - [clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/index.html)
