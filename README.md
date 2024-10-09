@@ -14,7 +14,7 @@
 
 ### 03.Seurat  
 - [01.基因表达均值差异](Software/03.Seurat/01.基因表达均值计算.md) <sub>(2024.08)</sub>
-
+- [02.VlnPlot与ggplot](Software/03.Seurat/02.VlnPlot.md) <sub>(2024.10)</sub>
 
 ## other:    
   - 日常遇到的bug等.
