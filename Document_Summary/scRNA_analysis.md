@@ -5,7 +5,7 @@
 ## 1.Fastq
 - [Cutadapt](https://cutadapt.readthedocs.io/en/stable/index.html)
 - [Fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
-> [Fastqc modules](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/)
+> - [Fastqc modules](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/Help/3%20Analysis%20Modules/)
 - [seqtk](https://github.com/lh3/seqtk)
 
 ## 2.Fastq mapping
@@ -25,10 +25,13 @@
 
 ## 2.Enrichment analysis
 - [clusterProfiler](https://yulab-smu.top/biomedical-knowledge-mining-book/index.html)
+- [UCell](https://github.com/carmonalab/UCell)
 
-## 3.Trajectories analysis
+
+## 3.Developmental trajectories analysis
 - [Monocle_1_2](https://cole-trapnell-lab.github.io/monocle-release/)
-> [Monocle3](https://cole-trapnell-lab.github.io/monocle3/)
+> - [Monocle3](https://cole-trapnell-lab.github.io/monocle3/)
+- [scVelo](https://scvelo.readthedocs.io/en/stable/)
 
 ## 4.Cell communication analysis
 - [CellphoneDB](https://cellphonedb.readthedocs.io/en/latest/#)
@@ -39,3 +42,9 @@
 
 ## 6.Metabolism analysis
 - [scMetabolism](https://github.com/wu-yc/scMetabolism)
+
+
+## Tumor data
+## 7.Copy number alterations
+- [InferCNV](https://github.com/broadinstitute/inferCNV/wiki#quick_start)
+- [scCancer](https://github.com/wguo-research/scCancer)
