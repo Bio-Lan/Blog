@@ -11,6 +11,7 @@
 
 ### 02.Nextflow  
 - [01.Nextflow 学习](Software/02.Nextflow/01.nextflow-pipeline.md) <sub>(2024.07)</sub>
+- [02.容器搭建](Software/02.Nextflow/02.container.md) <sub>(2024.10)</sub>
 
 ### 03.Seurat  
 - [01.基因表达均值差异](Software/03.Seurat/01.基因表达均值计算.md) <sub>(2024.08)</sub>
